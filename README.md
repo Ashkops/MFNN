@@ -1,0 +1,2 @@
+# MFNN
+MyFirstNeuralNetwork
